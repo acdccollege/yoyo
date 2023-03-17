@@ -3,3 +3,4 @@ SECRETKEY  : WvO85M0jVuXMkoDbfGQ8t9tIgjhSDXvd2ISbvVAc1jDmJGnKtaaUZzIBajAFt09N4Dx
 coin       : lqty
 rate       : 0.25
 mode (f/s) : s
+start      : 0
