@@ -4,3 +4,4 @@ coin       : xrp
 rate       : 0.2
 mode (f/s) : s
 start      : 0
+check      : 3bc6981e-0b16-438b-8911-1f9dcc20155d
