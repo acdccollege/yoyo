@@ -1,5 +1,5 @@
-APIKEY     : u8vZWdWEW2LwgSR4SsoKESI2UnsilcIeSAQJASb19n8Qy16BNZQ3obgH7wfQAA5kkFLvjiNLheVBg
-SECRETKEY  : WvO85M0jVuXMkoDbfGQ8t9tIgjhSDXvd2ISbvVAc1jDmJGnKtaaUZzIBajAFt09N4Dxrbw72V0mbocwRbmg
+APIKEY     : u8vZWdWEW
+SECRETKEY  : WvO85M0j
 coin       : xrp
 rate       : 0.2
 mode (f/s) : s
